@@ -1,7 +1,10 @@
 
 # 💼 Payroll Management System (PayNet)
 
----
+[Analysis Paper_Payroll management System.pdf](https://github.com/VibhaK93/Analysis-modelling-and-design/blob/main/Presentation%20slides_Payroll%20management%20System.pdf)
+
+[Presentation slides_Payroll management System.pdf ](https://github.com/VibhaK93/Analysis-modelling-and-design/blob/main/Presentation%20slides_Payroll%20management%20System.pdf)
+
 
 ## 📌 Overview
 
@@ -45,7 +48,7 @@
 
 ## 🗂️ Project Structure
 
-
+I've attached the paper for detailed analysis.
 
 
 ## 📝 Future Enhancements
