@@ -1,5 +1,3 @@
-# Analysis - Modeling - Design  
-
 
 # 💼 Payroll Management System (PayNet)
 
